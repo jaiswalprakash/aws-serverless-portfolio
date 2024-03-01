@@ -86,8 +86,6 @@ const prakash = {
             'percentage/CGPA': '68%'
         }
     ]
-
-
 }
 
 module.exports = { prakash }
